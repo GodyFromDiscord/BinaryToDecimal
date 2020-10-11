@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<!-- The whole point of this is not for the page to look STUNNING! -->
+<!-- It is more or so for the functionality and what was stated on the github repository! -->
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="./css/main.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Binary2Hex Converter</title>
+</head>
+<body>
+  <div class="content">
+    <h1>Binary2Hex</h1>
+    <h3>Convert Binary to Decimal</h3>
+
+    <p>Binary Number: <input type="text" id="binary-input" onchange="conv()" placeholder="Enter your binary value" /></p>
+    <p>Hexadecimal Value: <input type="text" id="hex-output" readonly /></p>
+    <p><input type="button" value="CONVERT" onclick="conv()"></p>
+  </div>
+</body>
+<script src="./scripts/script.js" defer></script>
+</html>
