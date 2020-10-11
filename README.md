@@ -12,7 +12,7 @@ The fundamentals of this are to provide the following;
 
 ---
 
-All projects will soon be able to be access via **https://gody.codes/projectname** where you can use them yourselves!
+All projects will soon be able to be accessed via **https://gody.codes/projectname** where you can use them yourselves!
 
 
 *- Gody*
